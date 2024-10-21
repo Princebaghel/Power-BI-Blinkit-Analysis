@@ -46,6 +46,6 @@ The dashboard includes a variety of charts and visualizations to track performan
 - Filters and Slicers: Enabled filtering by multiple criteria such as outlet type, location, and fat content.
 ## Access the Dashboard
 1. Clone this repository to your local machine:
-2. git clone https://github.com/your-username/blinkit-analysis.git
+2. git clone https://github.com/Princebaghel/Power-BI-Blinkit-Analysis.git
 3. Open the Blinkit.pbix file using Power BI Desktop.
 4. Explore the interactive dashboard to uncover insights.
